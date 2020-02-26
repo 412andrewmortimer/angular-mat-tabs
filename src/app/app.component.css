@@ -9,3 +9,7 @@
 .mt-2 {
   margin-top: 2rem;
 }
+
+.random-fizz {
+  display:none;
+}
